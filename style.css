@@ -1,15 +1,20 @@
 body{
   background-color: #FFF8DC;
   color:#2F4F4F;
-  font-family: Cambria, Arial;
+  font-family: Cambria;
   margin: .05% .05%;
 }
 
-.exp-header {border-bottom: 5px solid;
-text-align: center;
+.exp-header {
+  text-align: center;
+  border-bottom: 5px solid
 }
 
 .exp-header1 {
   text-align: center;
   text-transform: uppercase;
 }
+
+
+
+
